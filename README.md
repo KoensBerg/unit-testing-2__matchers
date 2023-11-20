@@ -23,4 +23,5 @@
 
 В автотестах используем `toEqual` вместо `toBe`
 
-Исходное ДЗ [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8/test-ci)
+Описание ДЗ [здесь](https://github.com/KoensBerg/ajs-homeworks/tree/ajs8/test-ci),
+AppVeyor к репозиторию [здесь](https://ci.appveyor.com/project/KoensBerg/unit-testing-2-matchers)
